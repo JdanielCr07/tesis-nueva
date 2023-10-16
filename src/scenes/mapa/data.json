@@ -1,0 +1,34 @@
+[
+        {      
+            "id": 1,
+            "equipo": "Atlanta",
+            "estadio": "Gewiss Stadium",
+            "latitud": 45.7092003,
+            "longitud": 9.6808454
+            
+        },
+        {      
+            "id": 2,
+            "equipo": "Bolonia",
+            "estadio": "Estadio Renato Dall Ara",
+            "latitud": 44.4921623,
+            "longitud": 11.3099448
+            
+        },
+        {      
+            "id": 3,
+            "equipo": "Cremonese",
+            "estadio": "Giovanni Zini Stadium",
+            "latitud": 45.1401824,
+            "longitud": 10.0348467
+            
+        },
+        {      
+            "id": 4,
+            "equipo": "Empoli",
+            "estadio": "Estadio Carlo Castellani",
+            "latitud": 43.7264961,
+            "longitud": 10.953748
+            
+        }
+]
